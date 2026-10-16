@@ -1,0 +1,175 @@
+{
+  "date": "13/10/2026",
+  "images": [
+    {
+      "file": "assets/son-node-image7.jpg",
+      "source": "https://sontyphu.github.io/hoc-auto-video/chuan-bi/anh/image7.jpg",
+      "caption": "Ảnh cài Node.js nguyên bản từ trang Sơn.",
+      "sha256": "ea75112c837055c09b4dfc786bc433d2f1069cac885b6aedd58af2abcd5599cf",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-git-image12.jpg",
+      "source": "https://sontyphu.github.io/hoc-auto-video/chuan-bi/anh/image12.jpg",
+      "caption": "Ảnh lỗi thiếu Git nguyên bản từ trang Sơn.",
+      "sha256": "516a17a3bc1488c16b5a0df5cb95cf388b1baca9a7c08fb574818ccc8be27761",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/codex-chon-du-an.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/chuan-bi/chuan-bi-buoc-8.png",
+      "caption": "Trong Codex, bấm tên dự án phía trên ô nhắn để mở menu rồi chọn New project. Tên dự án có trong ảnh là ví dụ; bạn chọn thư mục bot-zalo-24h của mình.",
+      "sha256": "0e1232dcb62432abb72cd888e976bd7b31a9add175a54d0e899dcdc90cfc0dcc",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/claude-telecharger.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image24.jpg",
+      "caption": "Trang tải Claude Code. Ví dụ giao diện Windows; chọn bản phù hợp với máy của bạn.",
+      "sha256": "dd81e541917fe3935bc366eedb692105d685078285beb93f99696727a1d87eb8",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/codex-telecharger.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image38.jpg",
+      "caption": "Trang tải Codex trong mẫu tham khảo. Giao diện có thể thay đổi; dùng liên kết chính thức trong bước tải ứng dụng.",
+      "sha256": "5354b432695ece6320188aa35d88f957347c828ff4bf7a2f60c93d27ca5a6ace",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/antigravity-telecharger.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-1.png",
+      "caption": "Antigravity có lựa chọn cho Windows, macOS và Linux. Chọn đúng hệ điều hành và chip của máy.",
+      "sha256": "f75cfdf7dbdaa9695b2989b17fc88532e51ab92125c93a4ed739ce66a3f7453b",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/antigravity-accueil.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-2.png",
+      "caption": "Màn hình đăng nhập Antigravity. Dùng tài khoản của bạn để tiếp tục.",
+      "sha256": "b08c3ab18bfbdbaa584ebc6fba57360d21a00793aa35824b8fef83204f249401",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image16.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image16.jpg",
+      "caption": "Microsoft Store đang tải ChatGPT. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "267bfeac2e68f5528295d44f3ba1e21298820e4e7320097c303c2d2a4c78a91d",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image27.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image27.jpg",
+      "caption": "Màn hình Continue to sign in. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "16311160528305304d0bab6300080cd6367f3a6a1c5de9223c570244f259bd44",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image5.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image5.jpg",
+      "caption": "Khảo sát ban đầu trong ứng dụng. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "78b6189bf12d2a3337769b1c1008f68e47d34f1cfff6fe039274cf0a5f539744",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image45.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image45.jpg",
+      "caption": "Nhập dữ liệu AI khác: có thể chọn Skip. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "62b7b0915b1bd18924d03c645f25e0413fb48d9acac5b699a5beec7ee8239b9c",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-anti-3.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-3.png",
+      "caption": "Đăng nhập thành công và Open Antigravity. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "3e1ad2d53cfaea2e09cd530d27c195b08f101e0900cbd519c92c4f0fb3182159",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-anti-4.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-4.png",
+      "caption": "Màn hình Security Notice & Data Use: chọn có chia sẻ dữ liệu sử dụng hay không. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "d9a28d617854e6a5430b73922fc408a94b5ae64d14cea5dffc1423e121370128",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-anti-5.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-5.png",
+      "caption": "Chọn giao diện Antigravity. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "6ce5613eaa4c5b3898365ba51edb2cf90054c541e265a46f8ba09a8dedaba061",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-anti-6.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-6.png",
+      "caption": "Các plugin tùy chọn và nút Finish. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "2fec01c084d3bf57b9221666e78570bda239339ca9ef22f58962206132235419",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-anti-7.png",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/anti-7.png",
+      "caption": "Màn hình Project của Antigravity. Ảnh từ trang của Sơn; phiên bản hiện tại có thể khác.",
+      "sha256": "577374f97a847dbd1dadebadc15d166868a68532c51ad75718580d0f7ee39a6e",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image52.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image52.jpg",
+      "caption": "Màn hình Claude sau đăng nhập: chọn Code; Local và ô nhắn ở dưới. Ảnh nguyên bản từ trang Sơn; giao diện hiện tại có thể khác.",
+      "sha256": "56b2b2ec5842e7d7e8d4df9d465434e258cca785d1d0c16826562d4716bcdf60",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image3.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image3.jpg",
+      "caption": "Menu Windows: Run as administrator cho bộ cài Claude; chỉ dùng khi gặp lỗi quyền cài đặt.",
+      "sha256": "d1ee2d4281da1dcd9a38d35bea4ff1d3e07f46a39db410ff0898cf716fa942f0",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image48.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image48.jpg",
+      "caption": "Khi Claude báo cần Git, cài Git rồi mở lại phiên làm việc.",
+      "sha256": "0b4eb872e24b9c68b39feeb1ea56dd419d868787870abff8bde0f92fe02b215d",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image58.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image58.jpg",
+      "caption": "Thoát hẳn Claude bằng Quit để ứng dụng nạp lại công cụ vừa cài.",
+      "sha256": "1e8da4f1a7e76a0c67a0429623f2e4d6fa831f23f39cbd950572b2476900b3d8",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/son-image41.jpg",
+      "source": "https://sontyphu.github.io/second-brain/chuan-bi/anh2/image41.jpg",
+      "caption": "Hộp cấp quyền Windows ghi ChatGPT và nhà phát hành OpenAI LLC; kiểm đúng trước khi đồng ý.",
+      "sha256": "74bc73c102db0250b92fc741d6d50d2a64c4b23f154e44bdde99659657ac0314",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    }
+  ],
+  "secondSampleImageReused": false,
+  "reason": "Ảnh của bài Auto Video không minh họa thao tác cài bot; chỉ giữ bố cục bài học."
+}
